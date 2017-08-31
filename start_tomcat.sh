@@ -1,2 +1,2 @@
 #! /bin/bash
-/opt/tomcat8/bin/startup.sh
+/opt/tomcat7/bin/startup.sh
